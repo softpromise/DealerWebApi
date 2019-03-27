@@ -1,0 +1,9 @@
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Models\bin\Debug\netcoreapp2.2\SmartDealer.Models.deps.json
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Models\bin\Debug\netcoreapp2.2\SmartDealer.Models.dll
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Models\bin\Debug\netcoreapp2.2\SmartDealer.Models.pdb
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Models\obj\Debug\netcoreapp2.2\SmartDealer.Models.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Models\obj\Debug\netcoreapp2.2\SmartDealer.Models.AssemblyInfoInputs.cache
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Models\obj\Debug\netcoreapp2.2\SmartDealer.Models.AssemblyInfo.cs
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Models\obj\Debug\netcoreapp2.2\SmartDealer.Models.dll
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Models\obj\Debug\netcoreapp2.2\SmartDealer.Models.pdb
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Models\obj\Debug\netcoreapp2.2\SmartDealer.Models.csprojAssemblyReference.cache

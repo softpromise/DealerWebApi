@@ -1,0 +1,14 @@
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Repository\bin\Debug\netcoreapp2.2\SmartDealer.Repository.deps.json
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Repository\bin\Debug\netcoreapp2.2\SmartDealer.Repository.runtimeconfig.json
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Repository\bin\Debug\netcoreapp2.2\SmartDealer.Repository.runtimeconfig.dev.json
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Repository\bin\Debug\netcoreapp2.2\SmartDealer.Repository.dll
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Repository\bin\Debug\netcoreapp2.2\SmartDealer.Repository.pdb
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Repository\bin\Debug\netcoreapp2.2\SmartDealer.Models.dll
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Repository\bin\Debug\netcoreapp2.2\SmartDealer.Models.pdb
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Repository\obj\Debug\netcoreapp2.2\SmartDealer.Repository.csprojAssemblyReference.cache
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Repository\obj\Debug\netcoreapp2.2\SmartDealer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Repository\obj\Debug\netcoreapp2.2\SmartDealer.Repository.AssemblyInfoInputs.cache
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Repository\obj\Debug\netcoreapp2.2\SmartDealer.Repository.AssemblyInfo.cs
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Repository\obj\Debug\netcoreapp2.2\SmartDealer.Repository.csproj.CopyComplete
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Repository\obj\Debug\netcoreapp2.2\SmartDealer.Repository.dll
+C:\Users\mohamed.sameel\source\repos\SmartDealer\SmartDealer.Repository\obj\Debug\netcoreapp2.2\SmartDealer.Repository.pdb
