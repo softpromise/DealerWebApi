@@ -3024,11 +3024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mohamed.sameel\\source\\repos\\SmartDealer\\SmartDealer.Models\\SmartDealer.Models.csproj",
+      "projectUniqueName": "C:\\Users\\mohamed.sameel\\source\\repos\\DealerWebApi\\SmartDealer\\SmartDealer.Models\\SmartDealer.Models.csproj",
       "projectName": "SmartDealer.Models",
-      "projectPath": "C:\\Users\\mohamed.sameel\\source\\repos\\SmartDealer\\SmartDealer.Models\\SmartDealer.Models.csproj",
+      "projectPath": "C:\\Users\\mohamed.sameel\\source\\repos\\DealerWebApi\\SmartDealer\\SmartDealer.Models\\SmartDealer.Models.csproj",
       "packagesPath": "C:\\Users\\mohamed.sameel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mohamed.sameel\\source\\repos\\SmartDealer\\SmartDealer.Models\\obj\\",
+      "outputPath": "C:\\Users\\mohamed.sameel\\source\\repos\\DealerWebApi\\SmartDealer\\SmartDealer.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

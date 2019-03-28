@@ -12965,11 +12965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mohamed.sameel\\source\\repos\\SmartDealer\\SmartDealer.WebAPI\\SmartDealer.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\mohamed.sameel\\source\\repos\\DealerWebApi\\SmartDealer\\SmartDealer.WebAPI\\SmartDealer.WebAPI.csproj",
       "projectName": "SmartDealer.WebAPI",
-      "projectPath": "C:\\Users\\mohamed.sameel\\source\\repos\\SmartDealer\\SmartDealer.WebAPI\\SmartDealer.WebAPI.csproj",
+      "projectPath": "C:\\Users\\mohamed.sameel\\source\\repos\\DealerWebApi\\SmartDealer\\SmartDealer.WebAPI\\SmartDealer.WebAPI.csproj",
       "packagesPath": "C:\\Users\\mohamed.sameel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mohamed.sameel\\source\\repos\\SmartDealer\\SmartDealer.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\mohamed.sameel\\source\\repos\\DealerWebApi\\SmartDealer\\SmartDealer.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12988,11 +12988,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\mohamed.sameel\\source\\repos\\SmartDealer\\SmartDealer.Repository\\SmartDealer.Repository.csproj": {
-              "projectPath": "C:\\Users\\mohamed.sameel\\source\\repos\\SmartDealer\\SmartDealer.Repository\\SmartDealer.Repository.csproj"
+            "C:\\Users\\mohamed.sameel\\source\\repos\\DealerWebApi\\SmartDealer\\SmartDealer.Repository\\SmartDealer.Repository.csproj": {
+              "projectPath": "C:\\Users\\mohamed.sameel\\source\\repos\\DealerWebApi\\SmartDealer\\SmartDealer.Repository\\SmartDealer.Repository.csproj"
             },
-            "C:\\Users\\mohamed.sameel\\source\\repos\\SmartDealer\\SmartDealer.Service\\SmartDealer.Service.csproj": {
-              "projectPath": "C:\\Users\\mohamed.sameel\\source\\repos\\SmartDealer\\SmartDealer.Service\\SmartDealer.Service.csproj"
+            "C:\\Users\\mohamed.sameel\\source\\repos\\DealerWebApi\\SmartDealer\\SmartDealer.Service\\SmartDealer.Service.csproj": {
+              "projectPath": "C:\\Users\\mohamed.sameel\\source\\repos\\DealerWebApi\\SmartDealer\\SmartDealer.Service\\SmartDealer.Service.csproj"
             }
           }
         }
